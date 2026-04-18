@@ -1,0 +1,9 @@
+{
+  "name": "CODQIT Technical Workspace",
+  "description": "Enterprise-grade engineering manifestation platform with AI-powered architecture review, documentation synchronization, and technical lifecycle management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
